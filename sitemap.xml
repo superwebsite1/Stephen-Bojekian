@@ -5,23 +5,23 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>index.html</loc>
-                 <lastmod>2026-05-16T22:44:08+00:00</lastmod>
+                 <loc>https://stephenbojekian.netlify.app/index.html</loc>
+                 <lastmod>2026-05-16T23:11:46+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>privacy-policy.html</loc>
-                 <lastmod>2026-05-16T22:44:08+00:00</lastmod>
+                 <loc>https://stephenbojekian.netlify.app/privacy-policy.html</loc>
+                 <lastmod>2026-05-16T23:11:46+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>feed.xml</loc>
-                 <lastmod>2026-05-16T22:44:08+00:00</lastmod>
+                 <loc>https://stephenbojekian.netlify.app/feed.xml</loc>
+                 <lastmod>2026-05-16T23:11:46+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.xml</loc>
-                 <lastmod>2026-05-16T22:44:08+00:00</lastmod>
+                 <loc>https://stephenbojekian.netlify.app/sitemap.xml</loc>
+                 <lastmod>2026-05-16T23:11:46+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.html</loc>
-                 <lastmod>2026-05-16T22:44:08+00:00</lastmod>
+                 <loc>https://stephenbojekian.netlify.app/sitemap.html</loc>
+                 <lastmod>2026-05-16T23:11:46+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
