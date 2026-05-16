@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: https://stephenbojekian.netlify.app/sitemap.xml
